@@ -26,7 +26,7 @@ school_of_rock = media.Movie(
 searching_for_sugarman = media.Movie(
     "Searching For Sugarman",
     "Academy Award winning documentary about a 1960's folk icon",
-    "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEwOTMzNjYzMl5BMl5BanBnXkFtZTcwNjczMTQyMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",  # noqa
+    "https://images-na.ssl-images-amazon.com/images/M/MV5BMWYyMzgxNDQtMDI2Mi00NmMzLWI5MTAtMmUwNDg3Yjg3N2U3XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_UY268_CR7,0,182,268_AL_.jpg",  # noqa
     "https://www.youtube.com/watch?v=QL5TffdOQ7g")
 
 all_the_presidents_men = media.Movie(
