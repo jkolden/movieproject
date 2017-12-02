@@ -1,4 +1,6 @@
-"""module to display movie object, attributes and instances"""
+"""
+module to display movie object, attributes and instances
+"""
 
 
 import webbrowser
