@@ -22,7 +22,7 @@ class Movie:
 
     def show_trailer(self):
         """
-        This function opens a browser window and displays the youtube 
+        This function opens a browser window and displays the youtube
         trailer for a given feature
         """
         webbrowser.open(self.trailer_youtube_url)
